@@ -1,3 +1,1 @@
-# myTest
-This is a myTest clock animation
-hello github
+![image](https://github.com/upward1/myTest/blob/main/img/clock.png)
